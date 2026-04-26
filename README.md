@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,100:4f46e5&height=180&section=header&text=Michel%20Branche&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Websites%20that%20convert%2C%20not%20just%20look%20good&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,100:4f46e5&height=180&section=header&text=Michel%20Branche&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Websites%20that%20look%20premium%20and%20convert&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Not+just+design.;Not+just+code.;Digital+experiences+that+perform.)](https://git.io/typing-svg)
 
@@ -8,25 +8,44 @@
 
 ---
 
+## 🎥 Experience
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x500?text=Your+Website+Preview" width="100%" />
+</p>
+
+<p align="center">
+  <i>Replace this with a real screen recording of your portfolio</i>
+</p>
+
+---
+
 ## 🧠 About
 
-I build websites that are designed to **look premium and convert**.
+I don’t just build websites.
 
-No unnecessary complexity.  
-No over-engineering.  
-Just clean execution and real impact.
+I design digital experiences that are made to **convert, perform, and scale**.
 
-📍 Italy  
-🎯 Focus: Conversion · UI/UX · Performance  
+Most websites today focus on aesthetics.  
+I focus on what actually matters:  
+→ clarity  
+→ structure  
+→ results  
 
 ---
 
 ## ⚡ Approach
 
-- Conversion first, aesthetics second  
-- Clean UI, clear hierarchy  
+- Conversion first, always  
+- Clean and intentional UI  
 - Fast, responsive, optimized  
-- Built for real users, not designers  
+- Built for users, not trends  
+
+---
+
+## 📈 Mindset
+
+A beautiful website that doesn’t convert is just decoration.
 
 ---
 
@@ -38,9 +57,9 @@ Just clean execution and real impact.
 
 ### Edge
 - GSAP animations  
-- Responsive systems  
 - Performance optimization  
 - UI/UX thinking  
+- Responsive systems  
 
 ---
 
@@ -77,12 +96,6 @@ Just clean execution and real impact.
 </a>
 
 </div>
-
----
-
-## 💬
-
-> A good-looking website is useless if it doesn’t convert.
 
 ---
 
