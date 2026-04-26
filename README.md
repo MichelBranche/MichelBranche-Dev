@@ -1,80 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4f46e5&height=200&section=header&text=Michel%20Branche&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Conversion%20Focused&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,100:4f46e5&height=180&section=header&text=Michel%20Branche&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Websites%20that%20convert%2C%20not%20just%20look%20good&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Design+is+not+decoration.;It’s+conversion.;Websites+that+look+good+and+perform.;Frontend+Developer+%2B+Creative+Thinking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Not+just+design.;Not+just+code.;Digital+experiences+that+perform.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I don’t just build websites.  
-I design digital experiences that **look premium and convert**.
+I build websites that are designed to **look premium and convert**.
+
+No unnecessary complexity.  
+No over-engineering.  
+Just clean execution and real impact.
 
 📍 Italy  
-🎯 Focus: High-converting websites · UI/UX · Performance  
-🚀 Approach: Clean design + real business impact  
+🎯 Focus: Conversion · UI/UX · Performance  
 
 ---
 
-## ⚡ What Makes Me Different
+## ⚡ Approach
 
-- Conversion over aesthetics  
-- Speed over complexity  
-- Real results over trends  
-- Design thinking + development execution  
+- Conversion first, aesthetics second  
+- Clean UI, clear hierarchy  
+- Fast, responsive, optimized  
+- Built for real users, not designers  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,git" />
 </p>
 
-### Tools & Workflow
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Extra Edge
-- GSAP Animations  
-- Responsive Design  
-- Performance Optimization  
-- UI/UX Thinking  
+### Edge
+- GSAP animations  
+- Responsive systems  
+- Performance optimization  
+- UI/UX thinking  
 
 ---
 
-## 📂 Selected Work
+## 📂 Work
 
-🚀 Portfolio  
+🌐 Portfolio  
 👉 https://devmichelbranche.vercel.app/
 
-💡 Focus:
-- Modern UI  
-- Smooth animations  
-- Real-world projects  
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MichelBranche&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelBranche&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MichelBranche&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelBranche&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/michel-branche-328501301/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:michel.lavoro@gmail.com">
@@ -89,12 +80,12 @@ I design digital experiences that **look premium and convert**.
 
 ---
 
-## 💬 Philosophy
+## 💬
 
-> “A beautiful website that doesn’t convert is just decoration.”
+> A good-looking website is useless if it doesn’t convert.
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0b0b0f&height=100&section=footer"/>
 </div>
