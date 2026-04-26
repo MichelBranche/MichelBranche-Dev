@@ -11,7 +11,7 @@
 ## 🎥 Experience
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x500?text=Your+Website+Preview" width="100%" />
+  <img src="./Recording 2026-04-26 at 11.14.27.gif" width="100%" />
 </p>
 
 <p align="center">
